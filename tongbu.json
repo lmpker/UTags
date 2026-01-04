@@ -1,1 +1,37 @@
-
+{
+  "data": {
+    "https://linux.do/u/pipecraft": {
+      "tags": [
+        "小鱼标签作者"
+      ],
+      "meta": {
+        "title": "pipecraft",
+        "type": "user",
+        "updated": 1767528923002,
+        "updated3": 1767528951836,
+        "created": 1767528737389
+      }
+    }
+  },
+  "meta": {
+    "databaseVersion": 3,
+    "lastUploadDevice": {
+      "deviceId": "Q2HYB21LFDEZNC4W-mjzozzf3",
+      "browser": "Chrome 134.0",
+      "os": "Windows",
+      "deviceType": "desktop",
+      "uploadTimestamp": 1767549340635,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+      "origin": "https://utags.link",
+      "currentSyncTimestamp": 1767549340635
+    },
+    "stats": {
+      "bookmarksCount": 1,
+      "tagsCount": 1,
+      "totalTagsCount": 1,
+      "domainsCount": 1
+    },
+    "updated": 1767549340635,
+    "created": 1767549340635
+  }
+}
